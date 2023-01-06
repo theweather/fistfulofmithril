@@ -22,7 +22,10 @@
 ## 
 ## 2020
 ## 
-### (https://github.com/theweather/fistfulofmithril/blob/main/Season1/2020/08012020.md) [August 1, 2020]
+### (https://github.com/theweather/fistfulofmithril/blob/main/Season2/2020/08012020.md) [August 1, 2020]
+### (https://github.com/theweather/fistfulofmithril/blob/main/Season2/2020/08292020.md) [August 29, 2020]
+### (https://github.com/theweather/fistfulofmithril/blob/main/Season2/2020/09262020.md) [September 26, 2020]
+### (https://github.com/theweather/fistfulofmithril/blob/main/Season2/2020/10102020.md) [October 10, 2020]
 ###
 ## 2021
 ###
