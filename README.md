@@ -1,14 +1,28 @@
 #  FISTFUL OF MITHRIL
 
 ## The Archives
+##
+## Season 1
+## 
 ## 2019
 ###
-### (https://github.com/theweather/fistfulofmithril/blob/main/2019/11232019.md) [November 23, 2019] 
+### (https://github.com/theweather/fistfulofmithril/blob/main/Season1/2019/11232019.md) [November 23, 2019] 
 ### 
 ## 2020
 ### 
-### (https://github.com/theweather/fistfulofmithril/blob/main/2020/01182020.md) [January 18, 2020]
-### (https://github.com/theweather/fistfulofmithril/blob/main/2020/02152020.md) [February 15, 2020]
+### (https://github.com/theweather/fistfulofmithril/blob/main/Season1/2020/01182020.md) [January 18, 2020]
+### (https://github.com/theweather/fistfulofmithril/blob/main/Season1/2020/02152020.md) [February 15, 2020]
+### (https://github.com/theweather/fistfulofmithril/blob/main/Season1/2020/05032020.md) [May 3, 2020]
+### (https://github.com/theweather/fistfulofmithril/blob/main/Season1/2020/05172020.md) [May 17, 2020]
+### (https://github.com/theweather/fistfulofmithril/blob/main/Season1/2020/06072020.md) [June 7, 2020]
+### (https://github.com/theweather/fistfulofmithril/blob/main/Season1/2020/06212020.md) [June 21, 2020]
+### (https://github.com/theweather/fistfulofmithril/blob/main/Season1/2020/06222020.md) [June 22, 2020]
+##
+## Season 2
+## 
+## 2020
+## 
+### (https://github.com/theweather/fistfulofmithril/blob/main/Season1/2020/08012020.md) [August 1, 2020]
 ###
 ## 2021
 ###
