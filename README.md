@@ -45,19 +45,19 @@
 ### () [January 15, 2022]
 ### () [February 19, 2022]
 ### () [March 12, 2022]
-### (https://github.com/theweather/fistfulofmithril/blob/main/2022/04162022.md) [April 16, 2022]
+### (https://github.com/theweather/fistfulofmithril/blob/main/Season2/2022/04162022.md) [April 16, 2022]
 ### () [June 25, 2022]
 ### () [August 20, 2022]
 ### () [October 1, 2022]
 ### () [October 15, 2022]
 ### () [November 19, 2022]
-### (https://github.com/theweather/fistfulofmithril/blob/main/2022/12172022.md) [December 17, 2022]
+### (https://github.com/theweather/fistfulofmithril/blob/main/Season2/2022/12172022.md) [December 17, 2022]
 ##
 ## Season 3
 ## 
 ## 2023
 ### 
-### (https://github.com/theweather/fistfulofmithril/blob/main/2023/01222023.md) [January 22, 2023]
+### (https://github.com/theweather/fistfulofmithril/blob/main/Season3/2023/01222023.md) [January 22, 2023]
 ### 
 ## NOTES:
 ###
